@@ -4,6 +4,10 @@
 # BlueJ files
 *.ctxt
 
+/bin/
+/.settings/
+module-info.java
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
